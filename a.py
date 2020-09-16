@@ -1,1 +1,2 @@
-a=5
+a = "this is new code"
+print  ("a")
